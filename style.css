@@ -1,0 +1,20 @@
+html{
+    background-color: aqua;
+}
+body {
+    text-align: center;
+    margin: 0;
+    padding : 0;
+    
+}
+header{
+    text-align: center;
+    background-color: brown;
+    opacity: 3;
+
+}
+footer{
+    font-size: x-large;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
